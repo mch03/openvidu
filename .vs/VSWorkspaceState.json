@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\openvidu-server",
+    "\\openvidu-client",
+    "\\openvidu-node-client",
     "\\openvidu-server\\src",
-    "\\openvidu-server\\src\\main",
     "\\openvidu-server\\src\\main\\java",
     "\\openvidu-server\\src\\main\\java\\io",
     "\\openvidu-server\\src\\main\\java\\io\\openvidu",
